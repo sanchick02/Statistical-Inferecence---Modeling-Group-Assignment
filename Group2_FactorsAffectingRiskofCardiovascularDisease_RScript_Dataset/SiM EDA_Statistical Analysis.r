@@ -1,7 +1,7 @@
 install.packages("tidyverse")
 
 # Import dataset
-mydata <- read.csv("C:/Users/Bao Yu/Downloads/SiM_Data_Final.csv")
+mydata <- read.csv("SiM_Data_Final.csv")
 View(mydata)
 
 # Identify missing value
